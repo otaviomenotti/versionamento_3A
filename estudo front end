@@ -1,0 +1,102 @@
+✅ 1. O que é Front-End
+
+Front-End é a parte visual de um site ou sistema, ou seja, tudo aquilo que o usuário vê e interage na tela (botões, textos, imagens, menus, cores, layout etc.).
+
+✅ 2. Diferença entre Front-End e Back-End
+Front-End: interface visual do site (HTML, CSS e JavaScript).
+Back-End: parte que funciona nos bastidores, cuidando de banco de dados, servidores e regras do sistema.
+
+👉 Resumindo:
+Front-End = aparência
+Back-End = funcionamento interno
+
+✅ 3. O que faz um desenvolvedor Full Stack
+
+Um desenvolvedor Full Stack trabalha tanto no Front-End quanto no Back-End, criando o sistema completo.
+
+✅ 4. Para que serve o HTML
+
+O HTML serve para estruturar o conteúdo da página (títulos, textos, imagens, links, listas).
+
+✅ 5. Para que serve o CSS
+
+O CSS serve para estilizar a página, definindo cores, tamanhos, fontes, espaçamentos e layout.
+
+✅ 6. Para que serve o JavaScript
+
+O JavaScript serve para adicionar interatividade e comportamento ao site (cliques, animações, validações, mensagens etc.).
+
+🧱 HTML
+✅ 7. Código com título e parágrafo
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo</title>
+</head>
+<body>
+
+<h1>Meu Título</h1>
+<p>Este é um parágrafo.</p>
+
+</body>
+</html>
+✅ 8. Link para o Google
+<a href="https://www.google.com">Ir para o Google</a>
+✅ 9. Inserir imagem
+<img src="foto.png" alt="Minha foto">
+✅ 10. Lista não ordenada
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+✅ 11. Para que serve a tag <div>
+
+A <div> é usada para organizar e agrupar elementos da página, facilitando a estilização com CSS e manipulação com JavaScript.
+
+🎨 CSS
+✅ 12. Parágrafos com texto azul
+p {
+    color: blue;
+}
+✅ 13. Diferença entre class e TAG
+TAG: aplica estilo a todos os elementos iguais.
+p { color: red; }
+class: aplica estilo somente aos elementos que possuem aquela classe.
+.texto { color: red; }
+✅ 14. Classe card
+.card {
+    background-color: white;
+    padding: 10px;
+}
+✅ 15. O que faz a propriedade margin
+
+margin define o espaço externo do elemento (distância entre ele e outros elementos).
+
+✅ 16. O que faz a propriedade padding
+
+padding define o espaço interno, entre o conteúdo e a borda do elemento.
+
+⚡ JavaScript
+✅ 17. Mostrar mensagem no console
+console.log("Olá mundo!");
+✅ 18. Variável idade
+let idade = 18;
+✅ 19. Pedir nome e mostrar alert
+let nome = prompt("Digite seu nome:");
+alert("Olá " + nome);
+✅ 20. Valor final de x
+
+Código:
+
+let x = 10;
+x = x + 5;
+x = x * 2;
+
+Passo a passo:
+
+x = 10
+x = 10 + 5 → 15
+x = 15 * 2 → 30
+
+✅ Valor final de x = 30
